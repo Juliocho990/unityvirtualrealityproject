@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: bfa93449963e3fe4db42947af5139381
+timeCreated: 1496265776
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pr_noninvasive_Mask_RigV4:Bend1Mascara
+    100004: Pr_noninvasive_Mask_RigV4:cluster1Handle
+    100006: Pr_noninvasive_Mask_RigV4:cluster2Handle
+    100008: Pr_noninvasive_Mask_RigV4:cluster3Handle
+    100010: Pr_noninvasive_Mask_RigV4:cluster5Handle
+    100012: Pr_noninvasive_Mask_RigV4:cluster6Handle
+    100014: Pr_noninvasive_Mask_RigV4:cluster7Handle
+    100016: Pr_noninvasive_Mask_RigV4:ClusterMascarilla1
+    100018: Pr_noninvasive_Mask_RigV4:Clusters
+    100020: Pr_noninvasive_Mask_RigV4:CNT_Mascarilla
+    100022: Pr_noninvasive_Mask_RigV4:ControlesMascara
+    100024: Pr_noninvasive_Mask_RigV4:curve1
+    100026: Pr_noninvasive_Mask_RigV4:GEO
+    100028: Pr_noninvasive_Mask_RigV4:GrpCNT_Masc
+    100030: Pr_noninvasive_Mask_RigV4:hairSystem1Follicles
+    100032: Pr_noninvasive_Mask_RigV4:JNT1Mascara
+    100034: Pr_noninvasive_Mask_RigV4:JNT2Mascara
+    100036: Pr_noninvasive_Mask_RigV4:JointsMask
+    100038: Pr_noninvasive_Mask_RigV4:MascaraMasterCNT
+    100040: Pr_noninvasive_Mask_RigV4:MascMasterCNTGRP
+    100042: Pr_noninvasive_Mask_RigV4:noninvasive_mask:mascarilla
+    100044: Pr_noninvasive_Mask_RigV4:noninvasive_mask:mascarillaFollicle6874
+    100046: Pr_noninvasive_Mask_RigV4:noninvasive_mask:soporteFrontal
+    100048: Pr_noninvasive_Mask_RigV4:NS
+    100050: Pr_noninvasive_Mask_RigV4:polySurface1
+    100052: Pr_noninvasive_Mask_RigV4:polySurface3
+    100054: Pr_noninvasive_Mask_RigV4:pPipe2
+    100056: Pr_noninvasive_Mask_RigV4:pPipe3
+    100058: Pr_noninvasive_Mask_RigV4:pPipe4
+    100060: Pr_noninvasive_Mask_RigV4:SC
+    100062: Pr_noninvasive_Mask_RigV4:transform1
+    100064: Pr_noninvasive_Mask_RigV4:transform2
+    100066: Pr_noninvasive_Mask_RigV4:transform3
+    100068: Pr_noninvasive_Mask_RigV4:transform4
+    100070: Pr_noninvasive_Mask_RigV4:transform5
+    100072: Pr_noninvasive_Mask_RigV4:Wire1
+    100074: Pr_noninvasive_Mask_RigV4:Wire1BaseWire
+    100076: Pr_noninvasive_Mask_RigV4:Wire2
+    100078: Pr_noninvasive_Mask_RigV4:Wire2BaseWire
+    100080: Pr_noninvasive_Mask_RigV4:WireCNT1
+    100082: Pr_noninvasive_Mask_RigV4:WireCNT1 1
+    100084: Pr_noninvasive_Mask_RigV4:WireCNT1 2
+    100086: Pr_noninvasive_Mask_RigV4:WireCNT1 3
+    100088: Pr_noninvasive_Mask_RigV4:WireCNT1 4
+    100090: Pr_noninvasive_Mask_RigV4:WireCNTGRP1
+    100092: Pr_noninvasive_Mask_RigV4:WireCNTGRP2
+    100094: Pr_noninvasive_Mask_RigV4:WireCNTGRP3
+    100096: Pr_noninvasive_Mask_RigV4:WireCNTGRP4
+    100098: Pr_noninvasive_Mask_RigV4:WireCNTGRP5
+    100100: Pr_noninvasive_Mask_RigV4:Wires
+    400000: //RootNode
+    400002: Pr_noninvasive_Mask_RigV4:Bend1Mascara
+    400004: Pr_noninvasive_Mask_RigV4:cluster1Handle
+    400006: Pr_noninvasive_Mask_RigV4:cluster2Handle
+    400008: Pr_noninvasive_Mask_RigV4:cluster3Handle
+    400010: Pr_noninvasive_Mask_RigV4:cluster5Handle
+    400012: Pr_noninvasive_Mask_RigV4:cluster6Handle
+    400014: Pr_noninvasive_Mask_RigV4:cluster7Handle
+    400016: Pr_noninvasive_Mask_RigV4:ClusterMascarilla1
+    400018: Pr_noninvasive_Mask_RigV4:Clusters
+    400020: Pr_noninvasive_Mask_RigV4:CNT_Mascarilla
+    400022: Pr_noninvasive_Mask_RigV4:ControlesMascara
+    400024: Pr_noninvasive_Mask_RigV4:curve1
+    400026: Pr_noninvasive_Mask_RigV4:GEO
+    400028: Pr_noninvasive_Mask_RigV4:GrpCNT_Masc
+    400030: Pr_noninvasive_Mask_RigV4:hairSystem1Follicles
+    400032: Pr_noninvasive_Mask_RigV4:JNT1Mascara
+    400034: Pr_noninvasive_Mask_RigV4:JNT2Mascara
+    400036: Pr_noninvasive_Mask_RigV4:JointsMask
+    400038: Pr_noninvasive_Mask_RigV4:MascaraMasterCNT
+    400040: Pr_noninvasive_Mask_RigV4:MascMasterCNTGRP
+    400042: Pr_noninvasive_Mask_RigV4:noninvasive_mask:mascarilla
+    400044: Pr_noninvasive_Mask_RigV4:noninvasive_mask:mascarillaFollicle6874
+    400046: Pr_noninvasive_Mask_RigV4:noninvasive_mask:soporteFrontal
+    400048: Pr_noninvasive_Mask_RigV4:NS
+    400050: Pr_noninvasive_Mask_RigV4:polySurface1
+    400052: Pr_noninvasive_Mask_RigV4:polySurface3
+    400054: Pr_noninvasive_Mask_RigV4:pPipe2
+    400056: Pr_noninvasive_Mask_RigV4:pPipe3
+    400058: Pr_noninvasive_Mask_RigV4:pPipe4
+    400060: Pr_noninvasive_Mask_RigV4:SC
+    400062: Pr_noninvasive_Mask_RigV4:transform1
+    400064: Pr_noninvasive_Mask_RigV4:transform2
+    400066: Pr_noninvasive_Mask_RigV4:transform3
+    400068: Pr_noninvasive_Mask_RigV4:transform4
+    400070: Pr_noninvasive_Mask_RigV4:transform5
+    400072: Pr_noninvasive_Mask_RigV4:Wire1
+    400074: Pr_noninvasive_Mask_RigV4:Wire1BaseWire
+    400076: Pr_noninvasive_Mask_RigV4:Wire2
+    400078: Pr_noninvasive_Mask_RigV4:Wire2BaseWire
+    400080: Pr_noninvasive_Mask_RigV4:WireCNT1
+    400082: Pr_noninvasive_Mask_RigV4:WireCNT1 1
+    400084: Pr_noninvasive_Mask_RigV4:WireCNT1 2
+    400086: Pr_noninvasive_Mask_RigV4:WireCNT1 3
+    400088: Pr_noninvasive_Mask_RigV4:WireCNT1 4
+    400090: Pr_noninvasive_Mask_RigV4:WireCNTGRP1
+    400092: Pr_noninvasive_Mask_RigV4:WireCNTGRP2
+    400094: Pr_noninvasive_Mask_RigV4:WireCNTGRP3
+    400096: Pr_noninvasive_Mask_RigV4:WireCNTGRP4
+    400098: Pr_noninvasive_Mask_RigV4:WireCNTGRP5
+    400100: Pr_noninvasive_Mask_RigV4:Wires
+    2300000: Pr_noninvasive_Mask_RigV4:noninvasive_mask:mascarilla
+    3300000: Pr_noninvasive_Mask_RigV4:noninvasive_mask:mascarilla
+    4300000: Pr_noninvasive_Mask_RigV4:noninvasive_mask:mascarilla
+    4300002: Pr_noninvasive_Mask_RigV4:noninvasive_mask:soporteFrontal
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Pr_noninvasive_Mask_RigV4:noninvasive_mask:soporteFrontal
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
